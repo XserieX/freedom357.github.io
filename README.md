@@ -4,4 +4,4 @@
 
 Biography
 Mr. Soontorn Janphuk
-![SJ, SJ Freedom] (/picture.jpg)
+![SJ, SJ Freedom] (https://github.com/freedom357/freedom357.github.io/blob/master/picture.jpg?raw=true)
