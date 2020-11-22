@@ -4,4 +4,4 @@
 
 Biography
 Mr. Soontorn Janphuk
-![SJ, SJ Freedom] (/picture.jpg)
+![SJ, SJ Freedom] (picture.jpg)
