@@ -3,5 +3,7 @@
 
 
 Biography
-Mr. Soontorn Janphuk received his 
+Mr. Soontorn Janphuk received his Bachelor’s Degree in Computer Engineering,
+King Mongkut’s Institute of Technology
+Ladkrabang,Thailand
 ![SJ, SJ Freedom] (https://github.com/freedom357/freedom357.github.io/blob/master/picture.jpg?raw=true)
