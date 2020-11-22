@@ -2,3 +2,5 @@
 # Freedom357.GitHub.io NECS0736
 
 ิฺBiography
+Mr. Soontorn Janphuk
+![SJ, SJ Freedom](/downloads/picture.jpg)
