@@ -36,12 +36,12 @@ Co., Ltd., Bangkok, Thailand<br>
 •   PENETRATION TESTING at Thai Bristish Security Printing PLC<br>
 12/2011 to 10/2013: Senior Security Analyst– S-generation Co., Ltd.<br>
 Response to the role of implementation ,Traniner and Support with complicated configuration and also take care the after sale services.<br>
-¥   AlienVault<br>
-¥   WAF(WISG)<br>
-¥   Acunetix<br>
+•   AlienVault<br>
+•   WAF(WISG)<br>
 ¥   Rapid7<br>
 o Nexpose<br>
 o Metasploit<br>
+•   Acunetix<br>
 ¥   EazyWebSec<br>
 ¥   Firemon<br>
 ¥   Niomatic<br>
