@@ -38,23 +38,23 @@ Co., Ltd., Bangkok, Thailand<br>
 Response to the role of implementation ,Traniner and Support with complicated configuration and also take care the after sale services.<br>
 •   AlienVault<br>
 •   WAF(WISG)<br>
-¥   Rapid7<br>
+•   Rapid7<br>
 o Nexpose<br>
 o Metasploit<br>
 •   Acunetix<br>
-¥   EazyWebSec<br>
-¥   Firemon<br>
-¥   Niomatic<br>
-¥   Service about security<br>
+•   EazyWebSec<br>
+•   Firemon<br>
+•   Niomatic<br>
+•   Service about security<br>
 10/2013 today Security Analyst–Ecop Co., Ltd.<br>
 Response to the role of Security Analyst ,Monitoring   and Support.now the role Analyst Supervisor.<br>
-¥   Arc-sight<br>
-¥   RSA<br>
-¥   FireEye<br>
-¥   Arbor<br>
-¥   Tippingpoint<br>
-¥   Solarwin<br>
-¥   Help Desk<br>
-¥   Security Analyst<br>
-¥   Report Security Analyst</p></p>
+•   Arc-sight<br>
+•   RSA<br>
+•   FireEye<br>
+•   Arbor<br>
+•   Tippingpoint<br>
+•   Solarwin<br>
+•   Help Desk<br>
+•   Security Analyst<br>
+•   Report Security Analyst</p></p>
 <img src ="picture.jpg">
