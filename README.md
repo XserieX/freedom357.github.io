@@ -1,3 +1,118 @@
+Mr. Soontorn Janphuk
+Senior Security Analyst
+Security Analyst
+freedom44357@gmail.com 087-505-4494
+24 April 1981
+
+Education:
+Bachelor’s Degree in Computer Engineering, King Mongkut’s Institute of Technology Ladkrabang,Thailand
+
+Working Experience:
+More than 10 years in Security and IT Infrastructure
+
+Project Experience:
+01/06 to present: Senior IT Security–Globaltech
+Co., Ltd., Bangkok, Thailand
+• Develop SRAN: Security Revolution Analysis Network (SRAN)
+• Programmer
+• Develop SRANWall
+
+• Develop Tools Vulnerability Assessment (Mauy Thai)
+• PENETRATION TESTING at CAT
+
+• PENETRATION TESTING at VIBHAVADI
+
+• PENETRATION TESTING at Fiscal Policy Office
+• PENETRATION TESTING at INTEGRATED BILLING AND CUSTOMER SERVICES SYSTEM
+
+• Develop Firewall UTM
+
+• Managed Security Services at Global Tech
+
+• Forensic at Mahidol University
+
+• Installs device SRAN Security Center
+
+• Solve a problem SRAN Security Center
+
+• Installs device SRANWall
+
+• Solve a problem SRANWall
+
+• Installs software Mauy Thai
+
+• Set VoIP system
+
+• Analysis network about device SRAN Security Center
+• PENETRATION TESTING at Thai Bristish Security Printing PLC
+
+12/2011 to 10/2013: Senior Security Analyst– S-generation Co., Ltd.
+
+Response to the role of implementation ,Traniner and Support with complicated configuration and also take care the after sale services.
+
+• AlienVault
+• WAF(WISG)
+• Rapid7
+o Nexpose
+o Metasploit
+• Acunetix
+• EazyWebSec
+• Firemon
+• Niomatic
+• Service about security
+10/2013 today Security Analyst–Ecop Co., Ltd.
+
+Response to the role of Security Analyst ,Monitoring and Support.now the role Analyst Supervisor.
+
+• Arc-sight
+• RSA
+• FireEye
+• Arbor
+• Tippingpoint
+• Solarwin
+• Help Desk
+• Security Analyst
+• Report Security Analystx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p> <p class="has-line-data" data-line-start="1" data-line-end="6">Mr. Soontorn Janphuk<br>
 Senior Security Analyst<br>
 Security Analyst<br>
@@ -53,3 +168,18 @@ o Metasploit<br>
 •   Security Analyst<br>
 •   Report Security Analyst</p></p>
 <img src ="picture.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
