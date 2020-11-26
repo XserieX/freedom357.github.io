@@ -1,8 +1,3 @@
-# NECS0736
-# Freedom357.GitHub.io NECS0736
-
-
-Biography
 <p> <p class="has-line-data" data-line-start="1" data-line-end="6">Mr. Soontorn Janphuk<br>
 Senior Security Analyst<br>
 Security Analyst<br>
