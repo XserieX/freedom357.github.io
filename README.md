@@ -18,7 +18,7 @@ AKA
                                                                                                      
                                                                                                      
                                                                                                      '''
-<img src ="picture.jpg" alt = "picture" width = "150"/>
+<img src ="picture.jpg" alt = "picture" width = "150">
 
 
 
