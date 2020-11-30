@@ -5,7 +5,12 @@ Birtday | 24 April
 
 Education ==> | Bachelor’s Degree in Computer Engineering, King Mongkut’s Institute of Technology Ladkrabang,Thailand
 <img src ="picture.jpg" width = "50%" hight = "50%">
-AKA
+
+
+
+<h2>AKA</h2>
+
+
 <img src ="freedom357.png" width = "50%" hight = "50%">
 
 
