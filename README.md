@@ -5,7 +5,6 @@ Birtday | 24 April
 
 Education | Bachelor’s Degree in Computer Engineering, King Mongkut’s Institute of Technology Ladkrabang,Thailand
 <img src ="picture.jpg" width = "50%" hight = "50%">
-#!/usr/bin/python
 AKA
 var AsciiBanner = require('ascii-banner');	
 
