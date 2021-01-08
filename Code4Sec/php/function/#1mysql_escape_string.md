@@ -10,8 +10,12 @@ mysql_escape_string
 
 
 
-ฟังก์่ชันนี้ จะทำการหลบเลี่ยง
+ฟังก์ชันนี้ จะทำการหลบเลี่ยงของสตริง ที่ส่งผลให้กับการทำงานในการ query mysql  ซึ่งอาจจะเป็นผลในทางที่ไม่ดีได้
 
-This function will escape the unescaped_string, so that it is safe to place it in a mysql_query(). This function is deprecated.
+***ตัวอย่าง*** 
 
-This function is identical to mysql_real_escape_string() except that mysql_real_escape_string() takes a connection handler and escapes the string according to the current character set. mysql_escape_string() does not take a connection argument and does not respect the current charset setting.
+    <?php
+    $item = "My name 's freedom357";
+    $escaped_item = mysql_escape_string($item);
+    printf("Escaped string: %s\n", $escaped_item);
+    ?>
