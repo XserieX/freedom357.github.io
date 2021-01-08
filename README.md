@@ -9,14 +9,14 @@ Education | Bachelor’s Degree in Computer Engineering, King Mongkut’s Instit
 <https://freedom357.github.io>
 
 
-<img src ="assents/images/picture.jpg" width = "50%" hight = "50%">
+<img src ="assets/images/picture.jpg" width = "50%" hight = "50%">
 
 
 
 <h2>AKA</h2>
 
 
-<img src ="assents/images/freedom357.png" width = "50%" hight = "50%">
+<img src ="assets/images/freedom357.png" width = "50%" hight = "50%">
 
 
 
