@@ -1,7 +1,7 @@
 mysql_escape_string
 ===================
 
-<img src ="Code4Sec/php/pic/phpSecurityBanner1.png" width = "50%" hight = "50%">
+<img src ="pic/phpSecurityBanner1.png" width = "50%" hight = "50%">
 
 
  **mysql_escape_string** คือ ฟังก์ชันที่ใช้ในการหลบเลี่ยง สตริืงที่ใช้กับ mysql query จะมีฟังก์ชันนี้ต้องแต่ (PHP 4 >= 4.0.3, PHP 5)
