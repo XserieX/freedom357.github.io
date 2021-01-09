@@ -36,7 +36,7 @@ mysql_escape_string
 
 ***ตัวอย่าง ที่มีช่องโหว่***
 
-$title = $_REQUEST["title"];
+    $title = $_REQUEST["title"];
 
     $sql = "SELECT * FROM movies WHERE title = '" . sqli($title) . "'";
 
@@ -47,7 +47,7 @@ $title = $_REQUEST["title"];
 
 ***ในทางแก้ไข***
 
-$title = $_REQUEST["title"];
+    $title = $_REQUEST["title"];
 
 
      
