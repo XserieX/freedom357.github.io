@@ -6,7 +6,7 @@ mysql_escape_string
 <img src ="phpSecurityBanner1.png" width ="100%" hight = "100%">
 
 
- **mysql_escape_string** คือ ฟังก์ชันที่ใช้ในการหลบเลี่ยง สตริงที่ใช้กับ mysql query จะมีฟังก์ชันนี้ต้องแต่ (PHP 4 >= 4.0.3, PHP 5)
+ **mysql_escape_string** คือ ฟังก์ชันที่ใช้ในการหลบเลี่ยง สตริงที่ใช้กับ mysql query จะมีฟังก์ชันนี้ใช้ได้ในเวอร์ชัน (PHP 4 >= 4.0.3, PHP 5)
 
  **การใช้งาน**
 
