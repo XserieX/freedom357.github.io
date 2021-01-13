@@ -30,6 +30,7 @@
     
 
 ***การนำประยุกต์ใช้งาน***
+
 Cross-site Scripting ชื่อย่อว่า XSS เป็นชนิดของการช่องโหว่ที่ถูกจัดให้อยู่ในลำดับที่ 3 ของ OWASP TOP 10 2017 โดยเว็บแอปพลิเคชันที่มีช่องโหว่ประเภทนี้ อนุญาตให้ผู้ไม่หวังดีสามารถใส่ JavaScript ให้ทำงานภายใต้ domain ของเป้าหมาย ดังนั้น ผู้ไม่หวังดีสามารถใช้ XSS เพื่อขโมยข้อมูลของผู้ใช้งานคนอื่นได้ 
 การป้องกัน
 [XSS prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
