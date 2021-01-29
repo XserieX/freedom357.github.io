@@ -14,9 +14,9 @@ Indicator of compromise (IoC) ในทาง computer forensics คือกา
 ## ตัวอย่าง
 
 1. การปริมาณข้อมูลเครือข่ายขาออกผิดปกติ(Unusual Outbound Network Traffic)
-2. บัญชีผู้ใช้ที่มีสิทธิ์สูงที่มีลักษณะกิจกรรมที่ผิดปกต
+2. บัญชีผู้ใช้ที่มีสิทธิ์สูงที่มีลักษณะกิจกรรมที่ผิดปกติ
 
-การวิเคราะห์สัญญาณบ่งชี้การบุกรุก (Indicator of Compromise ;IOCs) เพื่อนำคลังข้อมูลที่ได้จาก Threat Feeding มาวิเคราะห์ คัดเลือก ตรวจสอบ สำหรับการระบุการบุกรุกว่าเกิดจากภัยคุกคามใดบ้าง
+การวิเคราะห์สัญญาณบ่งชี้การบุกรุก (Indicator of Compromise ;IOCs) 
 
 3. การเข้าใช้ระบบจากสถานที่ที่แตกต่างหรือผิดปกติ(Geographical Irregularities)
 
@@ -43,6 +43,10 @@ Indicator of compromise (IoC) ในทาง computer forensics คือกา
 14. การใช้งาน เว็บแบบผิดปกติที่ไม่น่ามีผู้ใช้งานทั่วไปใช้งานในลักษณะนั้น (Web Traffic with Unhuman Behavior)
 
 15. DDoS อาจจะเป็นอีกหนึ่งสัญญาณที่บ่งบอกว่าระบบโดนโจมตี (Signs of DDoS Activity)
+
+
+## ในการใช้งาน 
+
 
 ## อ้างอิง
 + [secureinfo](https://www.secureinfo.co.th/index.php?page=article-detail&topic_id=13)
